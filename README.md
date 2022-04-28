@@ -1,2 +1,2 @@
 # website
-personal websit
+personal website
